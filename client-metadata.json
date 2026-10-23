@@ -1,0 +1,14 @@
+{
+  "client_id": "https://github.com/Rprasad27/Cimd-poc/client-metadata.json",
+  "client_name": "Rprasad",
+  "client_uri": "https://github.com/Rprasad27/Cimd-poc",
+  "redirect_uris": [
+    "https://localhost:3000/callback"
+  ],
+  "grant_types": [
+    "authorization_code"
+  ],
+  "response_types": [
+    "code"
+  ]
+}
